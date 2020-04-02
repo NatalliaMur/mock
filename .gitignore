@@ -3,3 +3,7 @@
 *.exe
 project.zip
 *.docx
+target/
+.classpath
+bin/
+test-output/
