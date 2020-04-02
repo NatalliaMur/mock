@@ -3,3 +3,10 @@
 *.exe
 project.zip
 *.docx
+<<<<<<< HEAD
+=======
+target/
+.classpath
+bin/
+test-output/
+>>>>>>> aa90f5d33189bce3133499741b8adea7809f7549
